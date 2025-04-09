@@ -1,4 +1,6 @@
-## Hi there 👋
+## CentraleSupélec Projects 🚀🔬👾
+
+This organization brings together all the group projects and labs carried out at CentraleSupélec.
 
 <!--
 
